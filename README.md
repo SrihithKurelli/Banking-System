@@ -124,7 +124,7 @@ Banking-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Banking-System.git
+git clone https://github.com/SrihithKurelli/Banking-System.git
 cd Banking-System
 ```
 
